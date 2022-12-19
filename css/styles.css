@@ -1,0 +1,35 @@
+#assets
+{
+    display: none;
+}
+
+#tetris
+{
+    background-image: url(../img/background.jpeg);
+    background-size: cover;
+    border: solid 2px #000;
+    border-radius: 3%;
+    display: flex;
+    height: 600px;
+    padding: 1.5rem;
+    width: 430px;
+}
+
+#main
+{
+    border: solid 2px #000;
+    height: 600px;
+    width: 300px;
+}
+
+#sidebar
+{
+    color: #fff;
+    padding-left: 20px;
+    width: 100px;
+}
+
+#sidebar div
+{
+    padding-bottom: 10px;
+}
